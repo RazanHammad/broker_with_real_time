@@ -1,0 +1,9 @@
+._*
+credentials.json
+node_modules/
+custom.js
+plugins_*
+output.json
+vscode/*
+.vscode/
+.idea
